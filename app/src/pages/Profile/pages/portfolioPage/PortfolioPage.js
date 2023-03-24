@@ -306,8 +306,6 @@ function PortfolioPage() {
                                             <i className="portfolio_pencil" onClick={() => setOpenEmail(true)}>
                                                 <img src={iconPencil} alt=""/>
                                             </i>
-
-
                                         </div>
 
 
